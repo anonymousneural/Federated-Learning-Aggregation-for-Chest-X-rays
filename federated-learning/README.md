@@ -53,5 +53,3 @@ Custom metrics, including a custom F1 score, are implemented to evaluate model p
 ## Results
 Results from the experiments, including performance metrics and visualizations, are saved in the `results` directory. You can find detailed summaries and plots in the respective `results/README.md` file.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
