@@ -1,6 +1,6 @@
 # FedHeurAgg: Federated Learning Aggregation for Chest X-rays
 
-## 📋 Project Overview
+## 📋 Research Overview
 This repository implements a federated learning framework for medical image classification, specifically focused on pneumonia detection in chest X-rays. The project presents a novel aggregation method called **FedHeurAgg** that dynamically weights client contributions based on performance metrics, data characteristics, and gradient behavior.
 
 ![Federated Learning Process](federated-learning/results/test_accuracy_comparison.png)
