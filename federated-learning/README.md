@@ -1,7 +1,7 @@
-# Federated Learning Project
+# Federated Learning Aggregation for Chest X RAYS
 
 ## Overview
-This project implements a federated learning framework designed for image classification tasks, specifically using chest X-ray images to detect pneumonia. The framework includes various aggregation methods, data loading utilities, custom metrics, and model architectures. The goal is to enable collaborative learning across multiple clients while preserving data privacy.
+This research implements a federated learning framework designed for image classification tasks, specifically using chest X-ray images to detect pneumonia. The framework includes various aggregation methods, data loading utilities, custom metrics, and model architectures. The goal is to enable collaborative learning across multiple clients while preserving data privacy.
 
 ## Table of Contents
 - [Installation](#installation)
